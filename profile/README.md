@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RelaydMC/.github/main/assets/relayd.png" width="96" alt="Relayd" />
+  <img src="https://raw.githubusercontent.com/RelaydMC/.github/main/assets/relayd.png" width="96" style="border-radius:14px" alt="Relayd" />
 </p>
 
 <h1 align="center">Relayd</h1>
